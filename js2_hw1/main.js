@@ -1,4 +1,4 @@
-// var lang = prompt()
+var lang = prompt('')
 
 // if (lang == 'ru') {
 //     console.log(['пн', 'вт', 'ср', 'чт', 'пт', 'сб', 'вс']);
@@ -7,8 +7,6 @@
 // }   else {
 //     alert('ERROR')
 // }
-
-var lang = prompt()
 
 switch (lang) {
     case 'ru':
